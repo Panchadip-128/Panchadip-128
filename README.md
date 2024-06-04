@@ -1,8 +1,5 @@
-## Hi there 👋
-
-**Panchadip-128/Panchadip-128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<h1 align="center">Hi 👋, I'm Panchadip Bhattacharya</h1>
+![logo](https://github.com/Panchadip-128/Panchadip-128/blob/main/banner.png)
+<h1 align="center">Hi 👋, I'm Panchadip Bhattacharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
