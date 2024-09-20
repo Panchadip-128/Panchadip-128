@@ -35,8 +35,8 @@
 - 🔭 I’m currently working on ... Artificial Intelligence, Machine Learning Projects
 - 🌱 I’m currently learning ...Machine Learning, Data Analytics
 - 👯 I’m looking to collaborate on ...MERN Stack Development
-- 💬 Ask me about ...Python Development, Artificial Intelligence, Machine Learning, Data Analytics, MySQL
-- 📫 How to reach me: ...panchadip125@gmail.com
+- 💪 My areas of expertise are ...Python Development, Artificial Intelligence, Machine Learning, Data Analytics, MySQL
+- ✨ Feel free to learn, explore and collaborate !!
 - 😄 Pronouns: ...He/Him
 
 -->
