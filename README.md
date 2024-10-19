@@ -1,4 +1,7 @@
 ![logo](https://github.com/Panchadip-128/Panchadip-128/blob/main/banner.png)
+View my holopin profile:
+[![An image of @panchadip128's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/panchadip128)](https://holopin.io/@panchadip128)
+
 <h1 align="center">Hi 👋, I'm Panchadip Bhattacharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
