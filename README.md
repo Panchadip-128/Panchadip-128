@@ -40,6 +40,14 @@
 - ✨ Feel free to learn, explore and collaborate !!
 - 😄 Pronouns: ...He/Him
 
+GSSoC 2024 Badges:
+![gssoc_01](https://github.com/user-attachments/assets/dde0c628-2878-4127-aef1-6e9ec8bee0b8) 
+![gssoc_02](https://github.com/user-attachments/assets/05cbf604-ae96-4456-8bb9-b966f5b0834f)
+![gssoc_03](https://github.com/user-attachments/assets/9ebd203a-2524-4976-8903-02e7b8e11ad7)
+![gssoc_04](https://github.com/user-attachments/assets/6887fbf5-8cd9-4f12-ba2f-9ed65ba89fa1)
+![gssoc_05](https://github.com/user-attachments/assets/0d274afb-80ae-4799-80a9-ee1ed8baf1e2)
+![gssoc_06](https://github.com/user-attachments/assets/5b3178e4-8564-482e-a31d-0d075e9365af)
+
 -->
 View my holopin profile:
 [![An image of @panchadip128's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/panchadip128)](https://holopin.io/@panchadip128)
