@@ -43,11 +43,11 @@
 GSSoC 2024 Badges:
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/dde0c628-2878-4127-aef1-6e9ec8bee0b8" alt="gssoc_01" width="130" height="110" />
-  <img src="https://github.com/user-attachments/assets/05cbf604-ae96-4456-8bb9-b966f5b0834f" alt="gssoc_02" width="130" height="110" />
-  <img src="https://github.com/user-attachments/assets/9ebd203a-2524-4976-8903-02e7b8e11ad7" alt="gssoc_03" width="130" height="110" />
-  <img src="https://github.com/user-attachments/assets/6887fbf5-8cd9-4f12-ba2f-9ed65ba89fa1" alt="gssoc_04" width="130" height="110" />
-  <img src="https://github.com/user-attachments/assets/0d274afb-80ae-4799-80a9-ee1ed8baf1e2" alt="gssoc_05" width="130" height="110" />
+  <img src="https://github.com/user-attachments/assets/dde0c628-2878-4127-aef1-6e9ec8bee0b8" alt="gssoc_01" width="150" height="110" />
+  <img src="https://github.com/user-attachments/assets/05cbf604-ae96-4456-8bb9-b966f5b0834f" alt="gssoc_02" width="150" height="110" />
+  <img src="https://github.com/user-attachments/assets/9ebd203a-2524-4976-8903-02e7b8e11ad7" alt="gssoc_03" width="150" height="110" />
+  <img src="https://github.com/user-attachments/assets/6887fbf5-8cd9-4f12-ba2f-9ed65ba89fa1" alt="gssoc_04" width="150" height="110" />
+  <img src="https://github.com/user-attachments/assets/0d274afb-80ae-4799-80a9-ee1ed8baf1e2" alt="gssoc_05" width="150" height="110" />
   <img src="https://github.com/user-attachments/assets/5b3178e4-8564-482e-a31d-0d075e9365af" alt="gssoc_06" width="130" height="110" />
 </p>
 
