@@ -65,6 +65,8 @@
   <img src="https://github.com/Panchadip-128/Panchadip-128/blob/main/src/ms-learn4.png" width="100px" height="100px" />
   <img src="https://github.com/Panchadip-128/Panchadip-128/blob/main/src/ms-learn-5.png" width="100px" height="100px" />
   <img src="https://github.com/Panchadip-128/Panchadip-128/blob/main/src/ms-learn-6.png" width="100px" height="100px" />
+  <img src="https://github.com/Panchadip-128/Panchadip-128/blob/main/src/ms-learn-7.png" width="100px" height="100px" />
+  <img src="https://github.com/Panchadip-128/Panchadip-128/blob/main/src/ms-learn-8.png" width="100px" height="100px" />
   
  
   </a>
