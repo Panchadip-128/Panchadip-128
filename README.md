@@ -1,7 +1,12 @@
 ![logo](https://github.com/Panchadip-128/Panchadip-128/blob/main/banner.png)
 
+![animation_1](https://github.com/user-attachments/assets/d3b87a28-a270-4321-bae9-84e5f4bec6dc)
 <h1 align="center">Hi 👋, I'm Panchadip Bhattacharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
+![animation_1](https://github.com/user-attachments/assets/b8a22bda-de6e-4f98-abbe-f8fed6296842)
+
+
+
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
