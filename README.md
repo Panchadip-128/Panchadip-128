@@ -42,16 +42,19 @@
 - ✨ Feel free to learn, explore and collaborate !!
 - 😄 Pronouns: ...He/Him
 
-GSSoC 2024 Badges:
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/dde0c628-2878-4127-aef1-6e9ec8bee0b8" alt="gssoc_01" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/05cbf604-ae96-4456-8bb9-b966f5b0834f" alt="gssoc_02" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/9ebd203a-2524-4976-8903-02e7b8e11ad7" alt="gssoc_03" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/6887fbf5-8cd9-4f12-ba2f-9ed65ba89fa1" alt="gssoc_04" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/0d274afb-80ae-4799-80a9-ee1ed8baf1e2" alt="gssoc_05" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/5b3178e4-8564-482e-a31d-0d075e9365af" alt="gssoc_06" width="50" height="50" />
-</p>
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+ 
+  </a>
+</div>
+<br>
+<br>
 
 -->
 View my holopin profile:
