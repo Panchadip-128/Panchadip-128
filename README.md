@@ -56,7 +56,7 @@
 <br>
 <br>
 
-## Microsoft Learn Course & Certification Batches 🪶
+## Microsoft Learn Courses & Certification Batches 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://learn.microsoft.com/en-us/users/panchadipbhattacharjee-5589/credentials/certification/azure-ai-fundamentals?tab=credentials-tab">
 <img src="https://github.com/Panchadip-128/Panchadip-128/blob/main/src/Microsoft%20Certified%20Azure%20AI%20badge.png" width="100px" height="100px" />
   <img src="https://github.com/Panchadip-128/Panchadip-128/blob/main/src/ms-learn-1.png" width="100px" height="100px" />
