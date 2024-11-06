@@ -76,4 +76,6 @@
 View my holopin profile:
 [![An image of @panchadip128's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/panchadip128)](https://holopin.io/@panchadip128)
 
-[![Panchadip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Panchadip-128&theme=react)](https://github.com/UppuluriKalyani/github-readme-activity-graph)
+Panchadip's GitHub Activity Graph:
+
+[![Panchadip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Panchadip-128&theme=react)](https://github.com/Panchadip-128/github-readme-activity-graph)
