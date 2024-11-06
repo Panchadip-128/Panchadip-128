@@ -1,7 +1,7 @@
 ![logo](https://github.com/Panchadip-128/Panchadip-128/blob/main/banner.png)
 
 ![animation_1](https://github.com/user-attachments/assets/d3b87a28-a270-4321-bae9-84e5f4bec6dc)
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=200&height=90&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Panchadip+Bhattacharya" alt="Intro" /> </h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=90&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Panchadip+Bhattacharya" alt="Intro" /> </h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 
