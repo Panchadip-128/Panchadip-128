@@ -35,6 +35,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchadip-128&" alt="panchadip-128" /></p>
 
+Panchadip's GitHub Activity Graph:
+
+[![Panchadip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Panchadip-128&theme=react)](https://github.com/Panchadip-128/github-readme-activity-graph)
+
+
 - 🔭 I’m currently working on ... Artificial Intelligence, Machine Learning Projects
 - 🌱 I’m currently learning ...Machine Learning, Data Analytics
 - 👯 I’m looking to collaborate on ...MERN Stack Development
@@ -75,7 +80,3 @@
 -->
 View my holopin profile:
 [![An image of @panchadip128's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/panchadip128)](https://holopin.io/@panchadip128)
-
-Panchadip's GitHub Activity Graph:
-
-[![Panchadip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Panchadip-128&theme=react)](https://github.com/Panchadip-128/github-readme-activity-graph)
