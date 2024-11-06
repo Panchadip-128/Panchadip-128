@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **panchadip125@gmail.com**
 
-- 📄 Know about my experiences & journey [[to be updated soon]]([to be updated soon])
+- 📄 Know about my experiences & journey [[to be updated soon]]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
