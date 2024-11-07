@@ -5,7 +5,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 
-<img align='right' src='https://github.com/Panchadip-128/Panchadip-128/blob/main/src/git_image.png' width='180' height='380'>
+<img align='right' src='https://github.com/Panchadip-128/Panchadip-128/blob/main/src/git_image.png' width='180' height='290'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panchadip-128&label=Profile%20views&color=0e75b6&style=flat" alt="panchadip-128" /> </p>
 
