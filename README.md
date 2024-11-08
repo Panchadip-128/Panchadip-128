@@ -81,7 +81,7 @@ Panchadip's GitHub Activity Graph:
 View my holopin profile:
 [![An image of @panchadip128's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/panchadip128)](https://holopin.io/@panchadip128)
 
-My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 🧠
+My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅,only when they gets completed just like competing against the Github green squares 🟩💚
 
 <p align="center">
   <img src="https://github.com/Panchadip-128/Panchadip-128/blob/main/src/207972307-0f5dcf42-2809-4d82-9a10-24dd878b5010.png">
