@@ -95,7 +95,7 @@ Panchadip's GitHub Activity Graph:
   </a>
 </div>
 
--->
+## Hacktober Fest 2024 Contributions batches:
 View my holopin profile:
 [![An image of @panchadip128's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/panchadip128)](https://holopin.io/@panchadip128)
 
