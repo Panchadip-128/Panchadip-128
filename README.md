@@ -20,7 +20,7 @@
 - 📫 How to reach me **panchadip125@gmail.com**
 
 - 📄 Know about my experiences & journey :
-panchadip.vercel.app/
+https://panchadip.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
